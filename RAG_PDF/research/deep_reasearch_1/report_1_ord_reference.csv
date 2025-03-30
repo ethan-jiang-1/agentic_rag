@@ -1,0 +1,8 @@
+Title,Author/Org,Date,Summary,URL
+"Building an Accurate, Tested RAG Pipeline for PDF Document Search with LangChain","Brian McGough (Medium)","2024-07-18","精准 PDF Chunk 切分 + LangChain + LangSmith 评估实践","https://medium.com/@bpmcgough/building-an-accurate-tested-rag-pipeline-for-pdf-document-search-with-langchain-01032abbe5e1"
+"Multimodal RAG for PDFs with Text, Images, and Charts","Pathway Engineering Team","2024-06-20","支持表格/图像的结构感知型 RAG 模板，结合 GPT-4o","https://pathway.com/developers/templates/multimodal-rag"
+"Visual RAG over PDFs with Vespa","Leandro Alves (Vespa Engineering Blog)","2024-11-19","ColPali 多模态检索 + Gemini 生成 + Vespa 高性能向量搜索","https://blog.vespa.ai/visual-rag-in-practice/"
+"Enhancing RAG Performance with Smart Chunking Strategies","Shabna M.T. (IBM Developer)","2025-02-02","多种 Chunk 切分方式对 QA 效果的对比分析（工程向指南）","https://developer.ibm.com/articles/awb-enhancing-rag-performance-chunking-strategies/"
+"Mastering RAG: Precision Techniques for Table-Heavy Documents","Ryan Siegler (KX)","2025-02-24","表格优先型 Chunking + Table 语义增强 + GPT 解读","https://kx.com/blog/mastering-rag-precision-techniques-for-table-heavy-documents/"
+"LumberChunker: Long-Form Narrative Document Segmentation","André Duarte et al. (arXiv)","2024-06-25","基于 LLM 的动态语义 Chunk 划分算法，用于长文档 QA","https://arxiv.org/abs/2406.17526"
+"RAG with a PDF using LlamaIndex and Vertex AI","Mete Atamel (Google Cloud)","2025-03-24","使用 Google Vertex AI + LlamaIndex 构建简单 RAG Demo","https://medium.com/google-cloud/rag-with-a-pdf-using-llamaindex-and-simplevectorstore-on-vertex-ai-0425a9bfe5c9"
